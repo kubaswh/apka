@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+body {
+  background-color: black;
+  overflow: hidden;
+}
+
+.iframe {
+  width: 960px;
+  height: 540px;
+  /* transform-origin: left top; */
+}
+
+/*
+.wrapper
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /*
